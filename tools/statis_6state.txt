@@ -1,0 +1,70 @@
+alabama
+alaska
+arizona
+arkansas
+atlanta
+california
+china
+colorado
+connecticut
+delaware
+district of columbia
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+n/a
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+none
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pa - pennsylvania
+pennsylvania
+qatar
+rhode island
+russia
+south carolina
+south dakota
+tennesse
+tennessee
+tex
+texas
+the united states
+united kingdom
+unknown
+utah
+vermont
+virgiia
+virgina
+virginia
+virginia director, coalition to stop gun violence
+washington
+washington d.c.
+washington dc
+washington state
+washington, d.c.
+west virginia
+wisconsin
+wyoming
